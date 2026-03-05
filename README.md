@@ -32,31 +32,19 @@
 
 ### 💻 Programming
 
-![HTML](https://skillicons.dev/icons?i=html)
-
-![CSS](https://skillicons.dev/icons?i=css)
-
-![javascript](https://skillicons.dev/icons?i=javascript)
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![javascript](https://skillicons.dev/icons?i=javascript)
 
 ---
 
 ### ⚙️ Tools
 
-![vscode](https://skillicons.dev/icons?i=vscode)
-
-![git](https://skillicons.dev/icons?i=git)
-
-![firebase](https://skillicons.dev/icons?i=firebase)
-
-![mysql](https://skillicons.dev/icons?i=mysql)
+![vscode](https://skillicons.dev/icons?i=vscode) ![git](https://skillicons.dev/icons?i=git) ![firebase](https://skillicons.dev/icons?i=firebase) ![mysql](https://skillicons.dev/icons?i=mysql)
 
 ---
 
 ### 🎨 Design
 
-![photoshop](https://skillicons.dev/icons?i=ps)
-
-![illustrator](https://skillicons.dev/icons?i=ai)
+![photoshop](https://skillicons.dev/icons?i=ps) ![illustrator](https://skillicons.dev/icons?i=ai)
 
 ---
 
