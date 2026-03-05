@@ -84,9 +84,9 @@ A collectible card bot where users collect **bronze, silver, and gold rarity ani
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Godxnemesis&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godxnemesis&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -95,7 +95,7 @@ A collectible card bot where users collect **bronze, silver, and gold rarity ani
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=Godxnemesis&theme=tokyonight"/>
 </p>
 
 ---
@@ -103,7 +103,7 @@ A collectible card bot where users collect **bronze, silver, and gold rarity ani
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/Godxnemesis/Godxnemesis/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -111,7 +111,7 @@ A collectible card bot where users collect **bronze, silver, and gold rarity ani
 # 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Godxnemesis&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -140,7 +140,7 @@ A collectible card bot where users collect **bronze, silver, and gold rarity ani
 # 📫 Connect With Me
 
 GitHub
-https://github.com/YOUR_USERNAME
+https://github.com/Godxnemesis
 
 Portfolio
 Coming Soon 🚀
