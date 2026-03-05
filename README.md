@@ -84,9 +84,9 @@ A collectible card bot where users collect **bronze, silver, and gold rarity ani
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Godxnemesis&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Godxnemesis&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godxnemesis&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Godxnemesis&layout=compact&theme=tokyonight"/>
 
 </p>
 
