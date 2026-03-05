@@ -100,14 +100,6 @@ A collectible card bot where users collect **bronze, silver, and gold rarity ani
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-![Snake animation](https://github.com/Godxnemesis/Godxnemesis/blob/output/github-contribution-grid-snake.svg)
-</p>
-
----
-
 # 👀 Profile Visitors
 
 <p align="center">
