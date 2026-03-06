@@ -17,7 +17,7 @@
 **Photoshop • Illustrator • Canva**
 
 🧠 Interested in
-** Web Development
+**Web Development
 • AI Tools & Automation
 • Startup Ideas
 • Creative Technology**
